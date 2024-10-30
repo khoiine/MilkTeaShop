@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|c:\\users\\tkgam\\onedrive\\m\u00E1y t\u00EDnh\\laptrinhweb_2200007430_hualekhoi\\laptrinhwebbancaphe\\laptrinhwebbancaphe\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|solutionrelative:laptrinhwebbancaphe\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\laptrinhwebbancaphe\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|solutionrelative:laptrinhwebbancaphe\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\laptrinhwebbancaphe\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|solutionrelative:laptrinhwebbancaphe\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\laptrinhwebbancaphe\\areas\\admin\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|solutionrelative:laptrinhwebbancaphe\\areas\\admin\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\laptrinhwebbancaphe\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|solutionrelative:laptrinhwebbancaphe\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\laptrinhwebbancaphe\\areas\\admin\\controllers\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C76CE5-9525-4E5B-8830-D299310F545F}|LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe.csproj|solutionrelative:laptrinhwebbancaphe\\areas\\admin\\controllers\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:05:57.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:05:00.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:04:24.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewController.cs",
+              "DocumentMoniker": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\NewController.cs",
+              "RelativeDocumentMoniker": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\NewController.cs",
+              "ToolTip": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\NewController.cs",
+              "RelativeToolTip": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\NewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:03:16.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:00:48.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatController.cs",
+              "DocumentMoniker": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\CatController.cs",
+              "RelativeDocumentMoniker": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\CatController.cs",
+              "ToolTip": "C:\\Users\\tkgam\\OneDrive\\M\u00E1y t\u00EDnh\\LapTrinhWeb_2200007430_HuaLeKhoi\\LapTrinhWebBanCaPhe\\LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\CatController.cs",
+              "RelativeToolTip": "LapTrinhWebBanCaPhe\\Areas\\Admin\\Controllers\\CatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:00:43.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
